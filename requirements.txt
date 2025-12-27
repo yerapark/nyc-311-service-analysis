@@ -1,0 +1,6 @@
+pandas
+requests
+jupyter
+matplotlib
+scikit-learn
+pyarrow
